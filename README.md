@@ -1,6 +1,3 @@
-# Cycle-GANs
-Concise description of the Cycle GANs
-
 # Cycle GANs
 
     GANs(Generative Adversarial Networks),GANs are algorithmic architectures that use two neural networks, pitting one against the other (thus the “adversarial”) in order to generate new, synthetic instances of data that can pass for real data. They are used widely in image generation, video generation and voice generation.
